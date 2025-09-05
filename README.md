@@ -1,10 +1,6 @@
 # Design-and-Implementation-of-a-Big-Data-Solution-for-Meteorological-Analysis
 A Hadoop ecosystem pipeline that processes terabytes of weather data to identify climate trends like a +0.5°C temperature rise, using HDFS, Spark, and Hive.
 
-Of course! Here are the key details of your project in an engaging, bullet-point format perfect for a GitHub README or portfolio summary.
-
-### **🌩️ Meteorological Data Analysis with Hadoop & Spark**
-
 #### **🎯 Objective**
 - To design and implement a **scalable big data pipeline** for processing and analyzing **multi-terabyte meteorological datasets** to uncover climate trends and actionable insights.
 
